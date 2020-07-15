@@ -1,0 +1,11 @@
+div{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    position: absolute;
+    margin: 15% 0 0 40%;
+}
+body{
+    background: linear-gradient(to right, #f46b45, #eea849);;
+}

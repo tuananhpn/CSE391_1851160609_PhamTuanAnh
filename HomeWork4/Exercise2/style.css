@@ -1,0 +1,23 @@
+.square{
+    background-color:orangered;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+body{
+    background: linear-gradient(to right, #f46b45, #eea849);;
+}
+.container{
+    position: absolute;
+    margin: 15% 0 0 40%;
+}
+#display{
+    display: flex;
+    margin: 20px 20px;
+}
+select{
+    width: 100px;
+    text-align: center;
+    margin: 0 200px;
+}
+
