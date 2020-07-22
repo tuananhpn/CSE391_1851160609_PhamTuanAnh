@@ -1,0 +1,32 @@
+body{
+    justify-content: center;
+    background: linear-gradient(to right, #ede574, #e1f5c4);
+}
+.circle-click{
+    background-color: lightblue;
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 50px 50px;
+}
+.square-click{
+    background-color:steelblue;;
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 50px 50px;
+}
+.rectangle-click{
+    width: 100px;
+    height: 20px;
+    display: inline-flex;
+    justify-content: center;
+    margin: 50px 50px;
+    background-color:steelblue;
+    border: 1px solid white;
+}
