@@ -1,0 +1,13 @@
+.navbar-brand{
+    margin-left: 50px;
+}
+#navbarNav{
+    margin-left: 600px;
+}
+#section-jumbotron{
+    background-image: linear-gradient(45deg,rgba(2,33,64,0.8) 55%,rgba(45,95,93,0.85))/*tạo một lớp màu trên hình nền*/, url("images/background2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
